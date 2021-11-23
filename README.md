@@ -5,7 +5,7 @@ You may know me as `bagas`, Web Developer From 🇮🇩.
 ### Connect with me:
 
 <p align="left">
-<a href="https://bagasafrizal.com" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/domain.png" alt="bagasss_i" height="30" width="40" /></a>
+<a href="https://bagasafrizal.com" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/domain.png" alt="bagasss_i" height="50" width="50" /></a>
 <a href="https://twitter.com/bagasss_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagasss_i" height="30" width="40" /></a>
 <a href="https://instagram.com/bagasafrizall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagasss_i" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bagas-afrizal/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="bagasss_i" height="30" width="40" /></a>
