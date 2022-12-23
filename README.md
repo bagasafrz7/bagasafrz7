@@ -28,4 +28,4 @@ You may know me as `bagas`, Web Developer From 🇮🇩.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=bagasafrz7&show_icons=true&theme=nightowl&locale=en" alt="bagasafrz7" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagasafrz7&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="bagasafrz7" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=bagasafrz7&show_icons=true&locale=en&layout=compact&theme=nightowl](https://github-readme-stats.vercel.app/api/top-langs?username=bagasafrz7&show_icons=true&locale=en&layout=compact&theme=nightowl)" alt="bagasafrz7" /></p>
