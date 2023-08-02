@@ -31,6 +31,6 @@ You may know me as `bagas`, Web Developer From 🇮🇩.
     <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakra-ui" width="150" height="40"/> </a>
   </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=bagasafrz7&show_icons=true&theme=nightowl&locale=en&count_private=true" alt="bagasafrz7" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=bagasafrz7&show_icons=true&theme=nightowl&locale=en&count_private=true&include_all_commits=true" alt="bagasafrz7" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagasafrz7&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="bagasafrz7" /></p>
